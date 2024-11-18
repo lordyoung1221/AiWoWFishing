@@ -28,7 +28,7 @@ RMS = 850                   #要根据自己的声卡进行优化，一般应在
 buf = 0  # alrdy compensated for boundary in initial rect adjustments
 z = 0
 
-model = torch.hub.load('.', 'custom', path='./runs/train/exp9/weights/best.pt',source="local") # 加载模型，具体路径以实际训练的模型为准
+model = torch.hub.load('.', 'custom', path='./best.pt',source="local") # 加载模型，具体路径以实际训练的模型为准
 model.eval()
 
 def AiFindFishingFloat():
