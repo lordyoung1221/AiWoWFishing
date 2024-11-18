@@ -1,4 +1,4 @@
-#本程序参考ClausewitzCPU0的wow-fishing，基于Yolov5修改
+#本魔兽世界钓鱼程序参考ClausewitzCPU0的wow-fishing，基于Yolov5修改
 #下载yolov5后,安装依赖，训练模型
 
 #启动程序后，把魔兽世界切换到前台即可，最好能启用钓鱼的全景视角（几乎成功率100%）
