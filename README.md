@@ -23,7 +23,7 @@ WOW fishing
 
 5.钓鱼界面尽量设置到最近无角色状态（可选）
 
-6.下载yolov5，并将代码和模型放在里面，安装request.txt，即可运行。
+6.下载yolov5( https://github.com/ultralytics/yolov5 )，并将代码和模型放在里面，安装request.txt，即可运行。
 
 
 三、程序逻辑
