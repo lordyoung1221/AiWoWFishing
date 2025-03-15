@@ -1,0 +1,24 @@
+# 基础依赖
+numpy==1.23.5         # 数值计算
+opencv-python==4.7.0  # 图像处理
+matplotlib==3.7.1     # 数据可视化
+
+# 机器学习
+torch==1.13.1+cu117    # PyTorch框架
+torchvision==0.14.1+cu117  # 视觉处理
+ultralytics==8.0.196   # YOLOv5官方库
+
+# 自动化控制
+pyautogui==0.9.54      # 鼠标/键盘控制
+pydirectinput==1.0.4   # 直接输入控制
+pywin32==306           # Windows系统交互
+
+# 音频处理
+pyaudio==0.2.13        # 音频流处理
+sounddevice==0.4.6     # 实时音频输入
+
+# 辅助工具
+seaborn==0.12.2        # 数据可视化
+pandas==2.0.3          # 数据处理
+tqdm==4.65.0           # 进度条显示
+scipy==1.10.1          # 科学计算
